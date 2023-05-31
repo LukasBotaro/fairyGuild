@@ -1,0 +1,12 @@
+tipo-guilda ( legal, dark, independente )
+guilda ( nome, local, tipo, cores, mestre )
+rank ( nome -> guild master, s-class mages, mages )
+membro ( nome, rank, guild )
+local (região, cidade)
+trabalho (titulo, descrição, valor, rank/classe)
+
+mestre ( demanda os trabalhos, cadastra membros )
+conselho(read only five master)
+
+
+membro - trabalho ( relação n para n)
