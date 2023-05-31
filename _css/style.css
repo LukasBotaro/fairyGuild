@@ -1,8 +1,9 @@
 *{
     margin: 0;
     padding: 0;
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
     text-decoration: none;
+    font-family: sans-serif;
 }
 
 body{
@@ -165,4 +166,21 @@ footer {
     width: 80;
 }
 
+.table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: url(../_assets/fundoboard.jpg); */
+    color: #0B2D5E;
+}
 
+/* .table{ */
+    /* width: 82vw;
+    height: 90vh;
+    background-color: #fff5;
+}
+
+table, th, td{
+    padding: 1rem;
+    font-size: 50px;
+} */
