@@ -1,7 +1,7 @@
 <?php
 session_start();
-const HOST     = 'localhost';
-const DBNAME   = 'guildas-db';
+const HOST     = 'localhost:3306';
+const DBNAME   = 'guilda_db';
 const USER     = 'root';
 const PASSWORD = '';
 

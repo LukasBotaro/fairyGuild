@@ -9,6 +9,9 @@
             <input type="email" name="email" placeholder="E-mail">
             <input type="password" name="password" placeholder="Defina sua senha">
             <input type="password" name="password" placeholder="Insira a senha novamente">
+            <input type="text" name="ranking" placeholder="Qual seu ranking?">
+            <input type="text" name="guilda" placeholder="Qual a guilda aplicada?">
+
             <input type="submit" value="CADASTRAR">
         </form>
 
